@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhinav Jain (@itsabhinavjain)
-- 👀 I’m interested in application of technology and data. 
-- 📫 How to reach me ...
+- I’m passionate about application of data and technology to improve human lives 
+- Reach me @
   - [LinkedIn](https://www.linkedin.com/in/jabhinav/)
   - [Email](mailto://abhinav@regisedge.com)
